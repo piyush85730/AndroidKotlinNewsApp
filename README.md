@@ -1,7 +1,7 @@
 # AndroidKotlinNewsApp
 
-I used following latest pattern
--Koin - for dependency injection
--Navigation components - For fragment navigation
--MVVM
--Retrofit - API call
+I used following latest pattern \n
+-Koin - for dependency injection \n
+-Navigation components - For fragment navigation \n
+-MVVM \n
+-Retrofit - API call \n
